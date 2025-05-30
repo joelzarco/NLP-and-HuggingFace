@@ -1,4 +1,5 @@
-#Natural Language Processing with Hugging Face
+# **Natural Language Processing with Hugging Face**
+
 In this project, I perform common Natural Language Processing (NLP) tasks using Hugging Face. The main tasks include:
 
 - Sentiment Analysis: Categorizing text as negative or positive.
